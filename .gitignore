@@ -24,5 +24,9 @@ node_modules
 /models/
 ./models/*
 
+# SWF scraper downloads
+/swf_downloads/
+swf_downloads/
+
 venv/
 .venv
