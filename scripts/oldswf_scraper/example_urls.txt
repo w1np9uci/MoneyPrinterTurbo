@@ -1,0 +1,9 @@
+# Example URLs for OldSWF scraper
+# Format: One URL or game ID per line
+# Lines starting with # are ignored
+
+# Example by game ID
+18037
+
+# Example by full URL
+https://oldswf.com/game/12345
